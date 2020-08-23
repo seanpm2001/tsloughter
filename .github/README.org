@@ -5,14 +5,14 @@ time being spent on one or more of these projects I already work on:
 
 *** rebar3 / relx
 
-[rebar3](https://github.com/erlang/rebar3) and
-[relx](https://github.com/erlware/relx) are tools for Erlang development and
+[[https://github.com/erlang/rebar3][rebar3]] and
+[[https://github.com/erlware/relx][relx]] are tools for Erlang development and
 packaging. Each require continual maintenance and feature development to keep up
 with new releases of Erlang and developers evolving needs.
 
 *** OpenTelemetry
 
-The [OpenTelemetry](https://opentelemetry.io) project involves both a
+The [[https://opentelemetry.io][OpenTelemetry]] project involves both a
 specification for distributed tracing, metrics and logging and the
 implementation of the API and default SDK in various languages, including
 Erlang/Elixir.
@@ -24,18 +24,18 @@ SIGs.
 
 *** grpcbox
 
-[grpcbox](https://github.com/tsloughter/grpcbox) is a client and server
-implementation of [GRPC](http://grpc.io/) built on the Erlang HTTP/2
-client/server [chatterbox](https://github.com/joedevivo/chatterbox).
+[[https://github.com/tsloughter/grpcbox][grpcbox]] is a client and server
+implementation of [[http://grpc.io/][GRPC]] built on the Erlang HTTP/2
+client/server [[https://github.com/joedevivo/chatterbox][chatterbox]].
 
 Some future work is a refactoring of the client implementation and performance
 improvements for chatterbox.
 
 *** Erleans
 
-[Erleans](https://github.com/erleans) is an Erlang version of
-[Orleans](https://dotnet.github.io/orleans/). It provides the [Virtual Actor
-Model](http://research.microsoft.com/apps/pubs/default.aspx?id=210931) on top of
+[[https://github.com/erleans][Erleans]] is an Erlang version of
+[[https://dotnet.github.io/orleans/][Orleans]]. It provides the [[http://research.microsoft.com/apps/pubs/default.aspx?id=210931][Virtual Actor
+Model]] on top of
 Erlang.
 
 Erleans is still not mature but has the potential to provide a high level
